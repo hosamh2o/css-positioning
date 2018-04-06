@@ -1,0 +1,247 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: #7196DB;
+}
+hr{
+  padding: .4px;
+   width: 700px;
+  color: red;
+  margin-left: 60px;
+}
+.div_grand_wihte hr {
+    padding: .4px;
+     width: 700px;
+    color: red;
+    margin-left: 0px;
+}
+.wrap{
+width: 1200px;
+height: 3000px;
+background: skyblue ;
+top: 60px;
+left: 70px;
+position: absolute;
+}
+.wrap h1{
+font-weight: 900;
+color: #fff;
+padding-left: 60px;
+font-family: 'Chango', cursive;
+font-size: 90px;
+}
+.wrap h4 {
+  background-color: skyblue;
+  color: #fff;
+  padding-left: 41px;
+  margin-top: 214px;
+}
+.wrap h6  a{
+  background-color: skyblue;
+  color: #fff;
+}
+.wrap h6  {
+  background-color: skyblue;
+  color: #fff;
+padding-left: 43px;
+margin-top: 28px;
+font-size: 21px;
+}
+div.right-side{
+  width: 400px;
+  height: 3100px;
+  background-color: #454544;
+  right: 0;
+  top: 0;
+  position: absolute;
+opacity: 0.7;
+}
+div.small_div{
+  position: absolute;
+  width: 280px;
+  height: 70px;
+  background-color: #99110B;
+  top: 70px;
+  left: 70px;
+  text-align: center;
+  padding-top: 21px;
+}
+div.div_yallow {
+  background-color: #FFE87A;
+  width: 400px;
+  height: 1300px;
+  position: absolute;
+  right: 82px;
+  top: 122px;
+}
+.div_yallow ul li a {
+  background-color: #FFE87A;
+  color: #000;
+  font-size: 20px;
+  padding-left: 15px;
+  padding-right: 10px;
+  margin-left: 5px;
+ }
+.div_yallow ul li{
+  list-style: none;
+  background-color: #FFE87A;
+  line-height: 300%;
+}
+div.div_grand_wihte {
+  position: absolute;
+  background-color:#fff;
+  width: 705px;
+  height: 666px;
+  right: 78px;
+  MARGIN-TOP: 2284PX;
+  }
+  .div_grand_wihte h3 {
+    background-color:#fff !important;
+  }
+  .div_grand_wihte p {
+    background-color:#fff;
+padding-left: 22px;
+padding-right: 22px;
+font-size: 19px;
+color: #000;
+font-weight: bold;
+  }
+.div_grand_wihte h5 {
+    background-color:#fff;
+padding-left: 44px;
+  }
+  .div_grand_wihte a {
+    background-color:#fff;
+color: #000;
+   }
+div.div_small_wihte{
+  position: absolute;
+  background-color:#fff;
+  width: 358px;
+  height: 520px;
+  top: 2317px;
+  left: 140px;
+
+}
+div.div_small_yalow{
+  position: absolute;
+  background-color: #FBEE7A;
+  width: 600px;
+  height: 70px;
+  top: 2950px;
+    right: 486px;
+}
+.div_small_yalow a {
+  background-color: #FBEE7A;
+  color: #000;
+   font-weight: bold;
+  font-size: 21px;
+  margin-left: 15px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h2{
+  background-color: #99110B;
+  color: #fff;
+}
+h1{
+margin-top: 300px;
+background-color: skyblue;
+ /* font-size: 83px; */
+ font-style: arial;
+ font-family: inherit;
+}
+abbr{
+  background-color: skyblue;
+  /* border-bottom-style: dashed; */
+}
+h3{
+  background-color:#FFE87A;
+  font-style: italic;
+  font-size: 34px;
+  margin-top: 20px;
+ margin-left: 79px;
+}
+.div_wihte{
+  position: absolute;
+  width: 790px;
+  height: 445px;
+   margin-top: 1100px;
+ background-color: #fff;
+}
+.div_wihte h3{
+  background-color: #fff;
+  font-style: italic;
+}
+.div_wihte p {
+  background-color: #fff;
+font-size: 26px;
+margin-left: 80PX;
+margin-right: 29PX.
+}
+.div_wihte p abbr {
+  background-color: #fff;
+}
+.div_red{
+  position: absolute;
+  background-color:#CF1423;
+  width: 532px;
+  height: 710px;
+  top: 1577px;
+  right: 77px;
+}
+.div_red h3 {
+  background-color: #CF1423;
+  color: #fff;
+
+}
+.div_red p {
+  background-color: #CF1423;
+font-size: 24px;
+margin-left: 23px;
+margin-right: 23px;
+color: #FFF;
+}
+.div_red p abbr {
+  background-color: #CF1423;
+color: #fff;
+}
+.div_red a {
+  background-color: #CF1423;
+  color: #000;
+  color: #FFF;
+}
+.main-text{
+  width: 550px;
+  height: 650px;
+  margin-top: 1450px;
+  background: skyblue ;
+}
+.main-text p{
+  font-size: 20px;
+  background-color: skyblue;
+color: #fff;
+margin-left: 4px;
+margin-right: 4px;
+letter-spacing: normal;
+}
+.main-text h3{
+  background-color: skyblue;
+color: #fff;
+}
+.div_small_wihte p {
+  background-color: #fff;
+  padding-top: 23px;
+  font-size: 19px;
+  color: #000;
+  font-weight: bold;
+  padding-left: 42px;
+}
+.div_small_wihte h3{
+  background-color: #fff;
+}
+p{
+  font-family: 'Marvel', sans-serif;
+}
+h2 ,h3, h5,h4,h6 {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
